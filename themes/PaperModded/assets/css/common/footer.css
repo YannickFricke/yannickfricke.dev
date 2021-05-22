@@ -18,12 +18,11 @@
 }
 
 .footer a {
-    color: inherit;
-    border-bottom: 1px solid var(--secondary)
+    color: var(--primary);
 }
 
 .footer a:hover {
-    border-bottom: 1px solid var(--primary)
+    border-bottom: 1px solid #32cd32;
 }
 
 .top-link {
@@ -47,7 +46,8 @@
 
 .footer a:hover,
 .top-link:hover {
-    color: var(--primary)
+    color: #32cd32;
+    text-decoration: none;
 }
 
 .top-link:focus,
