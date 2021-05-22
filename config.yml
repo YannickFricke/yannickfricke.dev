@@ -16,6 +16,8 @@ params:
     ShowReadingTime: true
     ShowToc: true
     TocOpen: true
+    assets:
+      favicon: favicon.png
     homeInfoParams:
         Title: 'Hi there'
         Content: Welcome to my personal homepage where I share some thoughts about IT and other stuff
