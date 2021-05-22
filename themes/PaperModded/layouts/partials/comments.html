@@ -1,0 +1,14 @@
+<script type="text/javascript">
+    const isLightMode = localStorage.getItem("pref-theme") === "light";
+
+    const elem = document.createElement("script");
+    elem.src = 'https://utteranc.es/client.js';
+    
+    elem.dataset.repo = 'YannickFricke/yannickfricke.dev';
+    elem.dataset.issueTerm = "pathname";
+    elem.dataset.theme = isLightMode ? "github-light" : "github-dark";
+    elem.crossOrigin = 'anonymous';
+    elem.async = true;
+
+    document.body.appendChild(elem);
+</script>

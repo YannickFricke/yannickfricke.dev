@@ -1,0 +1,41 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Yannick Fricke
+theme: PaperModded
+author: Yannick Fricke
+markup:
+    tableOfContents:
+        startLevel: 1
+        endLevel: 5
+        ordered: false
+    goldmark:
+      renderer:
+        unsafe: true
+params:
+    defaultTheme: dark
+    ShowReadingTime: true
+    ShowToc: true
+    TocOpen: true
+    homeInfoParams:
+        Title: 'Hi there'
+        Content: Welcome to my personal homepage where I share some thoughts about IT and other stuff
+    socialIcons:
+        - name: twitter
+          url: 'https://twitter.com/YannickFricke'
+        - name: github
+          url: 'https://github.com/YannickFricke'
+        - name: codestats
+          url: 'https://codestats.net/users/yfr'
+        - name: rss
+          url: '/index.xml'
+menu:
+    main:
+        - identifier: about-me
+          name: About me
+          url: /about-me/
+        - identifier: projects
+          name: My projects
+          url: /projects/
+        - identifier: imprint
+          name: Imprint
+          url: /imprint/
