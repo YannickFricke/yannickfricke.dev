@@ -30,6 +30,10 @@ params:
           url: 'https://codestats.net/users/yfr'
         - name: rss
           url: '/index.xml'
+
+taxonomies:
+  category: categories
+
 menu:
     main:
         - identifier: about-me
