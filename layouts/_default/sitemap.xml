@@ -1,5 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{{ range .Data.Pages }}
+{{ range where .Data.Pages "Type" "posts" }}
     {{ if not .Params.private }}
         <url>
             <loc>{{ .Permalink }}</loc>
