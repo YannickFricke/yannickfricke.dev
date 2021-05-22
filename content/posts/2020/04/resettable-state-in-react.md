@@ -1,10 +1,11 @@
 ---
-title: 'Resettable state in React'
+title: "Resettable state in React"
 date: 2020-04-22T00:00:00+02:00
 draft: false
 comments: true
 include_toc: true
 TocOpen: false
+categories: ["React.js", "TypeScript"]
 ---
 
 Hey everyone!

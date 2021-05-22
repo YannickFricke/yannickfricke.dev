@@ -1,10 +1,11 @@
 ---
-title: 'Why I switched to hugo'
+title: "Why I switched to hugo"
 date: 2021-04-12T17:42:15+02:00
 draft: false
 comments: true
 include_toc: true
 TocOpen: false
+categories: ["Hugo"]
 ---
 
 # Background
@@ -120,20 +121,20 @@ interface User {
 
 const user: User = {
     id: 1,
-    username: 'Testuser',
-    password: 'Testpassword',
+    username: "Testuser",
+    password: "Testpassword",
 };
 
 let upperCasedEmail = user.email?.toUpperCase();
 console.assert(
     upperCasedEmail === undefined,
-    'upperCasedEmail should be undefined',
+    "upperCasedEmail should be undefined"
 );
 
-upperCasedEmail = user.email?.toUpperCase() ?? '';
+upperCasedEmail = user.email?.toUpperCase() ?? "";
 console.assert(
-    upperCasedEmail === '',
-    'upperCasedEmail should be an empty string',
+    upperCasedEmail === "",
+    "upperCasedEmail should be an empty string"
 );
 ```
 
