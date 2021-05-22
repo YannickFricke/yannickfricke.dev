@@ -1,6 +1,6 @@
 ---
 title: Git auto pusher
-description: Pushing new commits each seconds to the current remote
+description: Pushing new commits each second to the current remote
 repository: https://github.com/YannickFricke/git-auto-pusher
 private: true
 ---
