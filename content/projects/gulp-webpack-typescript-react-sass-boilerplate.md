@@ -2,7 +2,7 @@
 title: Gulp Webpack TypeScript React Sass Boilerplate
 description: A boilerplate for Gulp, Webpack, TypeScript, React and SCSS
 repository: https://github.com/YannickFricke/gulp-webpack-typescript-react-sass-boilerplate
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

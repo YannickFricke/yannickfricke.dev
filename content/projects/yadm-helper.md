@@ -2,7 +2,7 @@
 title: YADM Helper
 description: Simple bash files which can be sourced within bash or zsh
 repository: https://github.com/YannickFricke/YADM-Helper
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

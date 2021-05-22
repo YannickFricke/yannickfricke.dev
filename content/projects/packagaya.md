@@ -2,7 +2,7 @@
 title: Packagaya
 description: A monorepo package manager
 repository: https://github.com/Packagaya/Packagaya
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

@@ -2,7 +2,7 @@
 title: Botvy
 description: A modular chatbot for various streaming services like Twitch, YouTube Gaming
 repository: https://github.com/Botvy/Botvy
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

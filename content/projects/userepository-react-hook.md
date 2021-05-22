@@ -2,7 +2,7 @@
 title: useRepository React hook
 description: Better entity management in React
 repository: https://github.com/YannickFricke/useRepository
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

@@ -2,7 +2,7 @@
 title: BashMigration
 description: Migration system for servers
 repository: https://github.com/YannickFricke/BashMigration
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

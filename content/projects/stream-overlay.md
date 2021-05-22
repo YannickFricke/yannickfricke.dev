@@ -1,7 +1,7 @@
 ---
 title: Stream Overlay
 description: The stream overlay for my Twitch channel
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

@@ -2,7 +2,7 @@
 title: use-local-storage React hook
 description: Localstorage integration for React.JS
 repository: https://github.com/YannickFricke/use-local-storage
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

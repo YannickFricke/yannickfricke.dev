@@ -2,7 +2,7 @@
 title: Twitch Unfollow Notifier
 description: Get notified about Twitch user unfollows and optionally ask them for the reason
 repository: https://github.com/YannickFricke/TwitchUnfollowNotifier
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

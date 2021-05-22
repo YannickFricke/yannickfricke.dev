@@ -2,7 +2,7 @@
 title: Git auto pusher
 description: Pushing new commits each second to the current remote
 repository: https://github.com/YannickFricke/git-auto-pusher
-private: true
+date: 2021-05-22
 ---
 
 Used technologies:

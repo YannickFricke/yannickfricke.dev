@@ -1,4 +1,4 @@
 ---
-title: 'My projects'
+title: My projects
 draft: false
 ---
