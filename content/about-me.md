@@ -16,15 +16,15 @@ Still interested I lend some IT books from our local library with the age of 12
 
 For sure, with that age you don't know all the words, so you have to gain a bigger vocabulary.
 
-With the age of 16 I bought my first own book for 50 € (that was my pocket money for a whole month!).
+At the age of 16 I bought my first own book for 50 € (that was my pocket money for a whole month!).
 
 Visual Basic .Net was my first choice, because I heard from a friend that it should be easy to learn.
 
-But sadly I lost the interest in it because I didn't understand arrays (now I laught about that!).
+But sadly I lost interest in it because I didn't understand arrays (now I laugh about that!).
 
-Giving up? No way! After a short break I started to learn PHP. In these days I found a very nice mentor who helped me a lot and I'm very grateful for him.
+Giving up? No way! After a short break I started to learn PHP. It was also at that time that I found a very nice mentor who helped me a lot and I'm very grateful for him.
 
-Now I'm practicing PHP for several years and learned some other languages (which are listed below).
+I've been practicing PHP for several years and learned some other languages as well (which are listed below).
 
 ## Hobbies
 
