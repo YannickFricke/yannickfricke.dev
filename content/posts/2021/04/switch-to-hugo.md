@@ -152,7 +152,7 @@ So I needed another solution in the foreseeable future... let's come to the new 
 
 # The new website
 
-## Why I choosed hugo
+## Why I chose hugo
 
 Hugo is a static site generator that works with Markdown files. The blog posts also use frontmatter to define metadata like title, publish date, draft status, are comments allowed (a theme setting), etc. Pages can be easily created by creating new Markdown files.
 
